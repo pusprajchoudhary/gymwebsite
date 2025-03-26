@@ -20,7 +20,7 @@ const Wcu = () => {
           <FaDumbbell className="text-yellow-500 text-5xl mx-auto mb-3" />
           <h3 className="text-2xl font-bold">Expert Trainers</h3>
           <p className="text-gray-300">Highly qualified trainers to help you achieve your goals.</p>
-          <img src="/trainer.jpg" alt="Workout" className="rounded-lg object-cover w-full h-[250px] mt-4 hover:scale-105 transition-all" />
+          <img src="/awards.jpg" alt="Workout" className="rounded-lg object-cover w-full h-[250px] mt-4 hover:scale-105 transition-all" />
         </div>
 
         {/* Feature 2 */}
